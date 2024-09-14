@@ -1,5 +1,5 @@
 import { ABOUT_TEXT } from "../constants";
-import aboutImg from "../assets/about.jpg";
+import aboutImg from "../assets/atharv2.jpg";
 import {motion} from "framer-motion";
 
 
