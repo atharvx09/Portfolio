@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/AtharvImage.jpg";
+import profilePic from "../assets/IMG_7345.png";
 import {motion} from "framer-motion";
 
 
